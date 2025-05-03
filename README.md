@@ -39,13 +39,13 @@ Here's a simple "hello world" scenario:
 
 ```bash
 bun index.ts
-```
 
 player attacks goblin
 player rolls d20+3=18
 18 exceeds the goblins AC
 player deals 1d8+2=10 to goblin
 goblin takes 10 damage and dies.
+```
 
 player here can be controlled by human or an automated agent.
-# archon
+
