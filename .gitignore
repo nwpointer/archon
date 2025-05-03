@@ -177,5 +177,5 @@ dist
 
 __snapshots__
 bun.lock
-vscode/
+.vscode/
 ui/
